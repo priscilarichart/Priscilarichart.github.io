@@ -1,5 +1,5 @@
 body {
-    background-color:blue 
-    color:blue
+    background-color:hwb(278 45% 9%) 
+    color:hwb(from color h w b)
 
 }
