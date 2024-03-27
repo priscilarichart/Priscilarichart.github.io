@@ -3,3 +3,7 @@ body {
     color:hwb(from color h w b)
 
 }
+image {
+    width: 100px;
+    height: 100px; 
+}
