@@ -1,7 +1,6 @@
 body {
-    background-color:rgb(189, 115, 232) 
-    color:hwb(from color h w b)
-
+    background-color:rgb(189, 115, 232) ;
+    color: "blue";
 }
 img {
     width: 100px;
